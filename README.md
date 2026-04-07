@@ -2,7 +2,7 @@
 
 An end-to-end **Machine Learning project** that predicts price of house
 🚀 **Live Demo:** 
-
+https://house-price-prediction-ml-poject.streamlit.app/
 ---
 
 
@@ -71,7 +71,7 @@ streamlit run app.py
 
 This project is deployed using **Streamlit Cloud**, which allows easy deployment directly from GitHub repositories. ([Data Science Dojo][1])
 
-👉 Live App: 
+👉 Live App: https://house-price-prediction-ml-poject.streamlit.app/
 
 ---
 
